@@ -2,7 +2,7 @@
 
 **Gerado em:** 2026-09-27
 **Atualizado em:** 2026-09-27 (`PLANO.md` começado; pendências P1–P9 registradas; URL
-do projeto Dança registrada)
+do projeto Dança registrada; **P2 decidida** — dança exemplificada no balé)
 **Para:** sessão nova (retomar o diálogo ou continuar no VS Code)
 
 ---
@@ -15,8 +15,10 @@ do projeto Dança registrada)
 - **Público:** professores de dança que já dão aula (qualquer modalidade) + gestores
 - **Duração:** 48h (28h presenciais + 20h EAD)
 - **Formato:** dois fins de semana + a semana entre eles
-- **Pergunta central:** Como eu auxilio a evolução do processo de aprendizagem do balé
+- **Pergunta central:** Como eu auxilio a evolução do processo de aprendizagem da dança
   a partir das demandas singulares de cada corpo?
+  - O **balé** é o exemplo canônico, não o assunto. O curso é sobre dança, exemplificada
+    no balé (decisão de 2026-09-27).
 
 **Este repositório é só documentação.** Não há código, não há ferramenta.
 
@@ -47,6 +49,9 @@ do projeto Dança registrada)
 - **O sistema não faz síntese** — mostra a lista do que mudou
 - **A linha de base se encadeia** — LB zero no PO; LB da aula N+1 é o resultado da aula N
 - **O professor decide** — o sistema sugere, ele confirma ou corrige
+- **Tema do curso:** dança, exemplificada no balé. O balé é o exemplo canônico — o curso
+  não é *sobre* balé (decisão de 2026-09-27). Preserva a pergunta central editada em
+  `PROJETO.md` §3, o título do Módulo 2 em `PROJETO.md` §4 e as pétreas 1 e 3.
 
 ### Escrito
 
@@ -87,10 +92,11 @@ do projeto Dança registrada)
 
 Achadas ao ler o `PROJETO.md` de perto (numeração do `PLANO.md`):
 
-- **Balé × agnóstico de modalidade** — a pergunta central fala do "processo de
-  aprendizagem do balé", mas a pétrea 3 diz que a ferramenta é agnóstica de
-  modalidade. **Contradição aparente.** Enquanto não for decidida, os módulos 1 e 2
-  não podem ser detalhados. (P2)
+- ~~**Balé × agnóstico de modalidade**~~ — **DECIDIDA em 2026-09-27.** O curso é sobre
+  **dança, exemplificada no balé**: o balé é o exemplo canônico, não o assunto. A
+  pergunta central (`PROJETO.md` §3) e o título do Módulo 2 (`PROJETO.md` §4) foram
+  corrigidos; as pétreas 1 e 3 do `PREMISSAS.md` ficaram intactas. Os módulos 1 e 2
+  estão **desbloqueados**. (P2, fechada)
 - **Os 10 blocos de pergunta** — citados como decididos em `PROJETO.md`, mas não
   enumerados em arquivo nenhum. (P4)
 - **O protocolo de observação do juvenil/adulto** — enumerado no Módulo 1, não no

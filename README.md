@@ -91,8 +91,11 @@ Construa nesta ordem. Não pule etapas.
 
 **A pergunta central do curso:**
 
-> Como eu auxilio a evolução do processo de aprendizagem do balé a partir das demandas
+> Como eu auxilio a evolução do processo de aprendizagem da dança a partir das demandas
 > singulares de cada corpo?
+
+O **balé** é o exemplo canônico — o curso não é *sobre* balé, é sobre dança,
+exemplificada no balé.
 
 **O que o curso ensina:** a ler dados e a decidir. Não a avaliar.
 

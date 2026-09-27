@@ -58,8 +58,11 @@ Ver seção 4.
 **DECIDIDO**
 
 - **Abertura do curso.** A ficha do curso é o `PROJETO.md`; a pergunta central é
-  "Como eu auxilio a evolução do processo de aprendizagem do balé a partir das demandas
+  "Como eu auxilio a evolução do processo de aprendizagem da dança a partir das demandas
   singulares de cada corpo?" (`PROJETO.md` §3).
+- **O balé é o exemplo canônico, não o assunto.** O curso é sobre dança, exemplificada
+  no balé — o que preserva a pétrea 3 (`PREMISSAS.md` §3: "a ferramenta é agnóstica de
+  modalidade").
 - **O enquadramento do curso:** ensina **a ler dados e a decidir — não a avaliar**
   (`PREMISSAS.md` §3, pétreas 2 e 4; `PROJETO.md` §1).
 - **Módulo 1 (infantil, baby class, 3 a 7 anos)** começa aqui (`PROJETO.md` §4):
@@ -76,8 +79,6 @@ Ver seção 4.
 
 - Se a **anamnese** (levantamento da LB zero do grupo) acontece na abertura ou no
   Encontro 4. Ver P1.
-- Se a contradição **balé × agnóstico de modalidade** atravessa o texto deste encontro.
-  Ver P2.
 - O **detalhamento** do Módulo 1 é do `MODULOS/01-infantil.md`, que ainda não existe
   (`README.md`, ordem de construção, item 3).
 
@@ -121,7 +122,6 @@ Ver seção 4.
 
 - O **protocolo de observação desta faixa** não está enumerado (no Módulo 1, a
   enumeração existe; aqui, não). Ver P5.
-- Se o Módulo 2 é "de balé" por decisão ou por herança da pergunta central. Ver P2.
 - O **detalhamento** é do `MODULOS/02-juvenil-adulto.md`, que ainda não existe
   (`README.md`, item 4).
 
@@ -144,7 +144,7 @@ Ver seção 4.
 
 - Se a **anamnese** (LB zero do grupo) é feita aqui, na preparação para a semana. Ver P1.
 - **Como a EAD funciona** na semana (janela aberta, agenda fixa ou misto). Ver P6.
-- Mesmas pendências P2, P3 e P4 dos Encontros 2 e 3.
+- Mesmas pendências P3 e P4 dos Encontros 2 e 3.
 
 ---
 
@@ -232,12 +232,17 @@ Ver seção 4.
 
 ## 5. Pendências desta frente
 
-Estas decisões **não existem** em nenhum arquivo. O plano não as resolve.
+As demais decisões **não existem** em nenhum arquivo. O plano não as resolve.
+
+**P2 (fechada).** O curso é sobre **dança, exemplificada no balé** — o balé é o exemplo
+canônico, não o assunto. A pergunta central (`PROJETO.md` §3) e o título do Módulo 2
+(`PROJETO.md` §4) foram corrigidos; as pétreas 1 e 3 do `PREMISSAS.md` ficaram intactas.
+Os módulos 1 e 2 estão **desbloqueados** — sujeitos a P4 e P5 para o detalhe. Fica fora
+da tabela abaixo, porque já **existe** em arquivo.
 
 | # | Pendência | Onde toca | Origem |
 |:--|:--|:--|:--|
 | P1 | Como a **anamnese** levanta a LB zero do grupo em poucos minutos — e em que encontro ela acontece | Encontros 1 e 4; a semana | `HANDOFF.md`, "Decisões em aberto" |
-| P2 | **Balé × agnóstico de modalidade** — a pergunta central fala do "processo de aprendizagem do balé", mas a pétrea 3 diz que a ferramenta é agnóstica de modalidade | Encontros 1, 3 e todo o restante | `PREMISSAS.md` §3 × `PROJETO.md` §3 |
 | P3 | **A exposição do professor** ao dar aula para os pares — e ao ser aluno dos colegas; a alternativa registrada é convidar os próprios alunos | Encontros 2, 4, 5 | `HANDOFF.md`, "Decisões em aberto" |
 | P4 | O conteúdo dos **10 blocos de pergunta** — citados como decididos, mas não enumerados em arquivo nenhum | Encontros 2, 4; a semana | `PROJETO.md` §4 e §7 |
 | P5 | O **protocolo de observação do juvenil/adulto** — enumerado no Módulo 1, não no Módulo 2 | Encontro 3 | `PROJETO.md` §4 |

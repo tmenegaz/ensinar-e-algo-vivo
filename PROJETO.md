@@ -33,8 +33,12 @@ já está em sala.
 
 **A pergunta central do curso:**
 
-> Como eu auxilio a evolução do processo de aprendizagem do balé a partir das demandas
+> Como eu auxilio a evolução do processo de aprendizagem da dança a partir das demandas
 > singulares de cada corpo?
+
+O **balé** é o exemplo canônico — a modalidade em que o curso se apoia para concretizar
+o que é agnóstico de modalidade (`PREMISSAS.md` §3, pétrea 3). O curso não é *sobre*
+balé: é sobre dança, exemplificada no balé.
 
 **Para responder, o curso ensina três coisas:**
 
@@ -57,7 +61,7 @@ O curso tem **3 módulos** e um **prático** que atravessa todos.
   lateralidade, noção espacial, equilíbrio, posicionamento.
 - **Prática** — com o sistema.
 
-### Módulo 2 — Planejamento de aula de balé (juvenil/adulto)
+### Módulo 2 — Planejamento de aula (juvenil/adulto)
 
 - **História da dança** — a proveniência da norma.
 - **Metodologia** — o que muda quando o corpo já tem outra maturidade.
