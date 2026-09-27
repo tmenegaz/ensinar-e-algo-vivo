@@ -50,8 +50,9 @@ do projeto Dança registrada; **P2 decidida** — dança exemplificada no balé)
 - **A linha de base se encadeia** — LB zero no PO; LB da aula N+1 é o resultado da aula N
 - **O professor decide** — o sistema sugere, ele confirma ou corrige
 - **Tema do curso:** dança, exemplificada no balé. O balé é o exemplo canônico — o curso
-  não é *sobre* balé (decisão de 2026-09-27). Preserva a pergunta central editada em
-  `PROJETO.md` §3, o título do Módulo 2 em `PROJETO.md` §4 e as pétreas 1 e 3.
+  não é *sobre* balé (decisão de 2026-09-27). Por isso a pergunta central foi para
+  "da dança" em `PROJETO.md` §3 e o Módulo 2 perdeu o "de balé" em `PROJETO.md` §4 —
+  mantendo as pétreas 1 e 3 intactas.
 
 ### Escrito
 
