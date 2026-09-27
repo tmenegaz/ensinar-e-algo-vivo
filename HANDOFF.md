@@ -2,7 +2,8 @@
 
 **Gerado em:** 2026-09-27
 **Atualizado em:** 2026-09-27 (`PLANO.md` começado; pendências P1–P9 registradas; URL
-do projeto Dança registrada; **P2 decidida** — dança exemplificada no balé)
+do projeto Dança registrada; **P2 decidida** — dança exemplificada no balé; **P6 fechada**
+como pergunta viciada, com a lacuna real registrada em P10)
 **Para:** sessão nova (retomar o diálogo ou continuar no VS Code)
 
 ---
@@ -89,7 +90,8 @@ do projeto Dança registrada; **P2 decidida** — dança exemplificada no balé)
   vire debate?
 - **A anamnese** — como levantar a LB zero do grupo em poucos minutos? **E em que
   encontro ela acontece?** (o `PLANO.md` não conseguiu fixá-lo)
-- **A EAD** — como as 4h/dia são usadas: janela aberta, agenda fixa, ou misto?
+- **O conteúdo das 20h de EAD** — a modalidade está decidida (janela aberta, `PROJETO.md`
+  §5 e §6); o que não está é o que o participante faz e entrega nessas horas. (P10)
 
 Achadas ao ler o `PROJETO.md` de perto (numeração do `PLANO.md`):
 
@@ -103,6 +105,10 @@ Achadas ao ler o `PROJETO.md` de perto (numeração do `PLANO.md`):
 - **O protocolo de observação do juvenil/adulto** — enumerado no Módulo 1, não no
   Módulo 2. (P5)
 - **"A aluna B"** — expressão usada em `PROJETO.md` §4 sem definição. (P9)
+- ~~**A EAD: janela aberta, agenda fixa, ou misto?**~~ — **FECHADA em 2026-09-27.** A
+  resposta já estava no `PROJETO.md` §5 e §6: **janela aberta** — replicada em quatro
+  arquivos sem ninguém notar. Era pergunta viciada. O que sobra é o *conteúdo* das 20h,
+  registrado acima como (P10).
 
 ### Construção
 

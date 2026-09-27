@@ -143,7 +143,8 @@ Ver seção 4.
 **PENDENTE**
 
 - Se a **anamnese** (LB zero do grupo) é feita aqui, na preparação para a semana. Ver P1.
-- **Como a EAD funciona** na semana (janela aberta, agenda fixa ou misto). Ver P6.
+- **O conteúdo das 20h de EAD** — o que o participante faz e o que entrega nessas horas.
+  Ver P10.
 - Mesmas pendências P3 e P4 dos Encontros 2 e 3.
 
 ---
@@ -225,20 +226,26 @@ Ver seção 4.
 **PENDENTE**
 
 - Como a **anamnese** levanta a LB zero do grupo, em poucos minutos. Ver P1.
-- **Como as 4h/dia de EAD são usadas**: janela aberta, agenda fixa, ou misto. Ver P6.
+- **O conteúdo das 20h de EAD** — quanto dessas 4h/dia tem atividade dirigida e quanto é
+  consulta livre. Ver P10.
 - O desenho desta semana é do `PRATICO.md`, que ainda não existe (`README.md`, item 6).
 
 ---
 
 ## 5. Pendências desta frente
 
-As demais decisões **não existem** em nenhum arquivo. O plano não as resolve.
+**Fechadas nesta rodada** — ficam fora da tabela abaixo, porque já existem em arquivo:
 
-**P2 (fechada).** O curso é sobre **dança, exemplificada no balé** — o balé é o exemplo
-canônico, não o assunto. A pergunta central (`PROJETO.md` §3) e o título do Módulo 2
-(`PROJETO.md` §4) foram corrigidos; as pétreas 1 e 3 do `PREMISSAS.md` ficaram intactas.
-Os módulos 1 e 2 estão **desbloqueados** — sujeitos a P4 e P5 para o detalhe. Fica fora
-da tabela abaixo, porque já **existe** em arquivo.
+- **P2 (fechada).** O curso é sobre **dança, exemplificada no balé** — o balé é o exemplo
+  canônico, não o assunto. A pergunta central (`PROJETO.md` §3) e o título do Módulo 2
+  (`PROJETO.md` §4) foram corrigidos; as pétreas 1 e 3 do `PREMISSAS.md` ficaram intactas.
+  Os módulos 1 e 2 estão **desbloqueados** — sujeitos a P4 e P5 para o detalhe.
+- **P6 (fechada como formulada).** A pergunta era "janela aberta, agenda fixa, ou misto?" —
+  e isso **já está decidido**: janela aberta (`PROJETO.md` §5 e §6, replicado no
+  `HANDOFF.md`, no `README.md` e aqui mesmo). Era pergunta viciada, não decisão em aberto.
+  O que segue aberto é outra coisa — o *conteúdo* dessas 20h — e virou **P10**.
+
+As demais decisões **não existem** em nenhum arquivo. O plano não as resolve.
 
 | # | Pendência | Onde toca | Origem |
 |:--|:--|:--|:--|
@@ -246,10 +253,10 @@ da tabela abaixo, porque já **existe** em arquivo.
 | P3 | **A exposição do professor** ao dar aula para os pares — e ao ser aluno dos colegas; a alternativa registrada é convidar os próprios alunos | Encontros 2, 4, 5 | `HANDOFF.md`, "Decisões em aberto" |
 | P4 | O conteúdo dos **10 blocos de pergunta** — citados como decididos, mas não enumerados em arquivo nenhum | Encontros 2, 4; a semana | `PROJETO.md` §4 e §7 |
 | P5 | O **protocolo de observação do juvenil/adulto** — enumerado no Módulo 1, não no Módulo 2 | Encontro 3 | `PROJETO.md` §4 |
-| P6 | **Como as 4h/dia de EAD são usadas**: janela aberta, agenda fixa, ou misto | Encontro 4; a semana | `HANDOFF.md`, "Decisões em aberto" |
 | P7 | **O formato do confronto de leituras** — como se registra o que cada um viu, sem que vire debate | Encontros 5 e 6 | `HANDOFF.md`, "Decisões em aberto" |
 | P8 | **O registro do debate** — o que emerge entra na cadeia como elo novo, ou o debate é só formativo? | Encontro 6 | `HANDOFF.md`, "Decisões em aberto" |
 | P9 | O que a expressão **"a aluna B"** designa | Encontro 7 | `PROJETO.md` §4 |
+| P10 | O **conteúdo das 20h de EAD** — o `PROJETO.md` §6 diz "Consulta EAD" sem dizer consulta de quê: não há tutor, plantão nem fórum em arquivo nenhum, e nada diz o que o participante entrega nessas horas | A semana | `PROJETO.md` §5 e §6; achado ao fechar P6 |
 
 ---
 
