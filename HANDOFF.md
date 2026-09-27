@@ -3,7 +3,8 @@
 **Gerado em:** 2026-09-27
 **Atualizado em:** 2026-09-27 (`PLANO.md` começado; pendências P1–P9 registradas; URL
 do projeto Dança registrada; **P2 decidida** — dança exemplificada no balé; **P6 fechada**
-como pergunta viciada, com a lacuna real registrada em P10)
+como pergunta viciada, com a lacuna real registrada em P10; **P4 decidida** — o alcance
+dos 10 blocos é uma aula, com a divergência declarada)
 **Para:** sessão nova (retomar o diálogo ou continuar no VS Code)
 
 ---
@@ -100,8 +101,13 @@ Achadas ao ler o `PROJETO.md` de perto (numeração do `PLANO.md`):
   pergunta central (`PROJETO.md` §3) e o título do Módulo 2 (`PROJETO.md` §4) foram
   corrigidos; as pétreas 1 e 3 do `PREMISSAS.md` ficaram intactas. Os módulos 1 e 2
   estão **desbloqueados**. (P2, fechada)
-- **Os 10 blocos de pergunta** — citados como decididos em `PROJETO.md`, mas não
-  enumerados em arquivo nenhum. (P4)
+- ~~**Os 10 blocos de pergunta**~~ — **DECIDIDA em 2026-09-27.** O que faltava era o
+  **alcance**: o `PROJETO.md` descrevia o mesmo instrumento de três formas — duas dizendo
+  "uma aula" (§4 e §7), uma dizendo "sequência de aulas" (§6). Decidido: o curso **mantém o
+  alcance menor** — os 10 blocos planejam **uma aula**, ancorada no objetivo do ciclo — e
+  registra que a referência cobre mais, com a nota do conflito no `PROJETO.md` §4. O
+  detalhe da ferramenta entra no `FERRAMENTA.md` (`PREMISSAS.md` §5). As três passagens
+  ficaram consistentes. (P4, fechada)
 - **O protocolo de observação do juvenil/adulto** — enumerado no Módulo 1, não no
   Módulo 2. (P5)
 - **"A aluna B"** — expressão usada em `PROJETO.md` §4 sem definição. (P9)

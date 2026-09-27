@@ -89,6 +89,11 @@ O curso tem **3 módulos** e um **prático** que atravessa todos.
 - **Debate** — você e os colegas expõem as leituras, com a cadeia à vista. Nunca é
   julgamento sobre a aula — é sobre dados e leitura de dados.
 
+**O alcance dos 10 blocos é declarado.** Neste curso, os 10 blocos de pergunta
+planejam **uma aula**, ancorada no objetivo do ciclo. A ferramenta de referência os
+aplica em alcance maior. O curso adota o alcance menor de propósito — a divergência
+fica declarada aqui, e o detalhe da ferramenta entra no `FERRAMENTA.md`.
+
 ---
 
 ## 5. Carga horária
@@ -124,7 +129,7 @@ não viajou descansar).
 ### Semana (entre os dois fins de semana)
 
 - O professor-aluno **aplica no grupo dele**, na escola dele.
-- Planeja a sequência de aulas (com os 10 blocos).
+- Planeja cada aula com os 10 blocos de pergunta.
 - Dá as aulas, lança os dados, gera os relatórios.
 - **Consulta EAD** — 4h/dia, janela aberta, durante os 5 dias úteis.
 

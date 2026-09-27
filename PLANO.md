@@ -95,6 +95,9 @@ Ver seção 4.
   leitura → apresentação → debate.**
 - Nesta prática interna, a "aula" é de **5 minutos**; a aula real é na escola do
   participante, na semana (`PROJETO.md` §4).
+- **O alcance dos 10 blocos é declarado** — aqui eles planejam **uma aula**, ancorada no
+  objetivo do ciclo; a ferramenta de referência os aplica em alcance maior. A divergência
+  fica declarada, e o detalhe da ferramenta entra no `FERRAMENTA.md` (`PROJETO.md` §4).
 - A prática é **com o sistema** (o formulário nasce do plano da aula; o relatório é
   gerado; o chat sugere a próxima LB e o professor confirma ou corrige —
   `PROJETO.md` §8).
@@ -104,7 +107,6 @@ Ver seção 4.
 - **A exposição do professor** ao dar a aula de 5 minutos para os pares — e ao ser
   aluno dos colegas. A alternativa já registrada é **convidar os próprios alunos**
   (`HANDOFF.md`, "Decisões em aberto"). Ver P3.
-- O conteúdo dos **10 blocos de pergunta** não está escrito em nenhum arquivo. Ver P4.
 
 ---
 
@@ -134,8 +136,9 @@ Ver seção 4.
 - **Continuação do Módulo 2** (`PROJETO.md` §6).
 - **Segunda prática interna** (`PROJETO.md` §6), com as mesmas regras do Encontro 2.
 - **Preparação para a semana** (`PROJETO.md` §6). Na semana, o professor-aluno
-  **aplica no grupo dele, na escola dele**: planeja a sequência de aulas com os 10
-  blocos, dá as aulas, lança os dados, gera os relatórios (`PROJETO.md` §6).
+  **aplica no grupo dele, na escola dele**: planeja cada aula com os 10 blocos, dá as
+  aulas, lança os dados, gera os relatórios (`PROJETO.md` §6). A sequência vem do
+  encadeamento aula a aula, não de um plano de ciclo.
 - O que o participante precisa sair sabendo fazer para a semana (`PROJETO.md` §7):
   declarar a LB zero do grupo; planejar a aula ancorada no objetivo do ciclo; dar a
   aula; lançar os dados; ler o relatório; decidir a próxima LB.
@@ -145,7 +148,7 @@ Ver seção 4.
 - Se a **anamnese** (LB zero do grupo) é feita aqui, na preparação para a semana. Ver P1.
 - **O conteúdo das 20h de EAD** — o que o participante faz e o que entrega nessas horas.
   Ver P10.
-- Mesmas pendências P3 e P4 dos Encontros 2 e 3.
+- Mesmas pendências P3 e P5 dos Encontros 2 e 3.
 
 ---
 
@@ -216,8 +219,8 @@ Ver seção 4.
 
 - **20h de EAD**: consulta, 4h/dia, janela aberta, durante os 5 dias úteis
   (`PROJETO.md` §5 e §6).
-- **Aplicação real na escola do participante**: planeja a sequência de aulas (com os 10
-  blocos), dá as aulas, lança os dados, gera os relatórios (`PROJETO.md` §6).
+- **Aplicação real na escola do participante**: planeja cada aula com os 10 blocos, dá
+  as aulas, lança os dados, gera os relatórios (`PROJETO.md` §6).
 - **A linha de base se encadeia**: a LB zero está no PO; a LB da aula N+1 é o resultado
   da aula N (`PROJETO.md` §8; `PREMISSAS.md` §3, pétrea 7).
 - O que o participante produz **pertence à escola** — a cadeia de custódia é um dos
@@ -239,11 +242,19 @@ Ver seção 4.
 - **P2 (fechada).** O curso é sobre **dança, exemplificada no balé** — o balé é o exemplo
   canônico, não o assunto. A pergunta central (`PROJETO.md` §3) e o título do Módulo 2
   (`PROJETO.md` §4) foram corrigidos; as pétreas 1 e 3 do `PREMISSAS.md` ficaram intactas.
-  Os módulos 1 e 2 estão **desbloqueados** — sujeitos a P4 e P5 para o detalhe.
+  Os módulos 1 e 2 estão **desbloqueados** — sujeitos a P5 para o detalhe.
 - **P6 (fechada como formulada).** A pergunta era "janela aberta, agenda fixa, ou misto?" —
   e isso **já está decidido**: janela aberta (`PROJETO.md` §5 e §6, replicado no
   `HANDOFF.md`, no `README.md` e aqui mesmo). Era pergunta viciada, não decisão em aberto.
   O que segue aberto é outra coisa — o *conteúdo* dessas 20h — e virou **P10**.
+- **P4 (fechada).** Tinha duas metades. A **enumeração**: os 10 blocos existem — são o
+  instrumento do projeto Dança —; o curso não os copia, cita-os no `FERRAMENTA.md`
+  (`PREMISSAS.md` §5), e por isso não precisa de cópia própria. O **alcance**: o
+  `PROJETO.md` descrevia o mesmo instrumento de três formas — duas dizendo "uma aula"
+  (§4 e §7), uma dizendo "sequência de aulas" (§6). Decidido: o curso **mantém o alcance
+  menor** — os 10 blocos planejam **uma aula**, ancorada no objetivo do ciclo — e registra
+  que a referência cobre mais, com a nota do conflito no `PROJETO.md` §4. As três
+  passagens ficaram consistentes.
 
 As demais decisões **não existem** em nenhum arquivo. O plano não as resolve.
 
@@ -251,7 +262,6 @@ As demais decisões **não existem** em nenhum arquivo. O plano não as resolve.
 |:--|:--|:--|:--|
 | P1 | Como a **anamnese** levanta a LB zero do grupo em poucos minutos — e em que encontro ela acontece | Encontros 1 e 4; a semana | `HANDOFF.md`, "Decisões em aberto" |
 | P3 | **A exposição do professor** ao dar aula para os pares — e ao ser aluno dos colegas; a alternativa registrada é convidar os próprios alunos | Encontros 2, 4, 5 | `HANDOFF.md`, "Decisões em aberto" |
-| P4 | O conteúdo dos **10 blocos de pergunta** — citados como decididos, mas não enumerados em arquivo nenhum | Encontros 2, 4; a semana | `PROJETO.md` §4 e §7 |
 | P5 | O **protocolo de observação do juvenil/adulto** — enumerado no Módulo 1, não no Módulo 2 | Encontro 3 | `PROJETO.md` §4 |
 | P7 | **O formato do confronto de leituras** — como se registra o que cada um viu, sem que vire debate | Encontros 5 e 6 | `HANDOFF.md`, "Decisões em aberto" |
 | P8 | **O registro do debate** — o que emerge entra na cadeia como elo novo, ou o debate é só formativo? | Encontro 6 | `HANDOFF.md`, "Decisões em aberto" |
