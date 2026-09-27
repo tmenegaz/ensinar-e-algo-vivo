@@ -1,7 +1,8 @@
 # Handoff — Ensinar é Algo Vivo
 
 **Gerado em:** 2026-09-27
-**Atualizado em:** 2026-09-27 (`PLANO.md` começado; pendências P1–P9 registradas)
+**Atualizado em:** 2026-09-27 (`PLANO.md` começado; pendências P1–P9 registradas; URL
+do projeto Dança registrada)
 **Para:** sessão nova (retomar o diálogo ou continuar no VS Code)
 
 ---
@@ -19,8 +20,9 @@
 
 **Este repositório é só documentação.** Não há código, não há ferramenta.
 
-**A ferramenta** (o sistema de ciclos) está em outro repositório, referenciado em
-`FERRAMENTA.md`. **O agente não tem permissão de escrita no projeto Dança.**
+**A ferramenta** (o sistema de ciclos) está em outro repositório —
+`https://github.com/tmenegaz/danca.git` — referenciado em `FERRAMENTA.md`.
+**O agente não tem permissão de escrita no projeto Dança.**
 
 ---
 
@@ -83,7 +85,7 @@
   encontro ela acontece?** (o `PLANO.md` não conseguiu fixá-lo)
 - **A EAD** — como as 4h/dia são usadas: janela aberta, agenda fixa, ou misto?
 
-Aberta ao escrever o `PLANO.md` (leva as referências P1–P9 de lá):
+Achadas ao ler o `PROJETO.md` de perto (numeração do `PLANO.md`):
 
 - **Balé × agnóstico de modalidade** — a pergunta central fala do "processo de
   aprendizagem do balé", mas a pétrea 3 diz que a ferramenta é agnóstica de
@@ -111,7 +113,8 @@ Aberta ao escrever o `PLANO.md` (leva as referências P1–P9 de lá):
 - `PREMISSAS.md` — regras, pétreas, proibições
 - `PROJETO.md` — a ficha do curso
 - `README.md` — o arranque
-- O projeto Dança (outro repositório) — a ferramenta
+- O projeto Dança (outro repositório) — a ferramenta:
+  `https://github.com/tmenegaz/danca.git`
 
 ---
 

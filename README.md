@@ -9,8 +9,8 @@
 Este repositório contém **toda a documentação do curso** *Ensinar é Algo Vivo*.
 
 - **É só documentação.** Não há código, não há ferramenta, não há sistema.
-- **A ferramenta** (o sistema de ciclos) está em outro repositório, referenciado em
-  `FERRAMENTA.md`.
+- **A ferramenta** (o sistema de ciclos) está em outro repositório —
+  `https://github.com/tmenegaz/danca.git` — referenciado em `FERRAMENTA.md`.
 - **Este repositório não altera a ferramenta.** Só a referencia.
 
 ---
@@ -57,7 +57,8 @@ Construa nesta ordem. Não pule etapas.
 4. **`MODULOS/02-juvenil-adulto.md`** — o Módulo 2 em detalhe.
 5. **`MODULOS/03-acompanhamento.md`** — o Módulo 3 em detalhe.
 6. **`PRATICO.md`** — o desenho da prática (anamnese, aula de 5 min, relatório, debate).
-7. **`FERRAMENTA.md`** — como o sistema entra no curso (referência ao projeto Dança).
+7. **`FERRAMENTA.md`** — como o sistema entra no curso (referência ao projeto Dança,
+   `https://github.com/tmenegaz/danca.git`).
 8. **`ORCAMENTO/planilha.md`** — o orçamento (para a Lei Rouanet depois).
 9. **`REFERENCIAS.md`** — bibliografia e material de apoio.
 
